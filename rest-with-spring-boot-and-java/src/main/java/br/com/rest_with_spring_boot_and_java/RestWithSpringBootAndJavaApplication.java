@@ -1,4 +1,4 @@
-package br.com.eurudio.rest_with_spring_boot_and_java;
+package br.com.rest_with_spring_boot_and_java;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
